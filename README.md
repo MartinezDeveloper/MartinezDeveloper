@@ -1,6 +1,6 @@
 ## MartinezDeveloper
 Information
-- Hello my name is Jake and i do scripting for Arma 3 Servers, i have been this for around 3-4 months and i feel like i have learnt alot over the time i have been scripting.
+- Hello my name is Jake and i do scripting for Arma 3 Servers (EG: https://www.rebornroleplay.com, https://olympus-entertainment.com)
 - Currently i sell my products on https://bytex.market/sellers/profile/K477789825. If you have any questions about Arma 3 Scripting dont be afraid to contact me through my discord or my steam
 
 Contact Methods
