@@ -1,6 +1,6 @@
 ## MartinezDeveloper
 Information
-- Discord - Martinezzz#5762
+- Discord - Martinezzz
 
 Development Experiences
 - Project Reborn (Head Script Developer)
